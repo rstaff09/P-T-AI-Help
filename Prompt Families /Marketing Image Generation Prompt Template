@@ -6,7 +6,9 @@ Use this template to create professional marketing images for your business. Rep
 
 ---
 
-**Create [NUMBER] Instagram marketing images for [YOUR BUSINESS NAME] [PRODUCT/SERVICE NAME] using the following specifications:**
+**Create 1 Instagram marketing image for [YOUR BUSINESS NAME] [PRODUCT/SERVICE NAME] using the following specifications:**
+
+*Note: Request one image at a time for best results. You can run this prompt multiple times with different concepts.*
 
 **PRODUCT OVERVIEW:**
 [YOUR BUSINESS NAME] [PRODUCT/SERVICE NAME] is a [BRIEF DESCRIPTION OF WHAT IT IS] that helps [TARGET AUDIENCE] [MAIN BENEFIT/OUTCOME]. The system solves the problem of [SPECIFIC PAIN POINT YOUR AUDIENCE EXPERIENCES]. Instead of [CURRENT FRUSTRATING SITUATION], [TARGET AUDIENCE] get [YOUR SOLUTION AND KEY BENEFIT].
@@ -30,36 +32,44 @@ Use this template to create professional marketing images for your business. Rep
 - "[MAIN VALUE PROPOSITION]"
 - "[TRANSFORMATION STATEMENT]"
 
-**IMAGE CONCEPTS (create all [NUMBER]):**
+**IMAGE CONCEPT (choose one per request):**
 
-1. **Problem/Solution Split** - Left side shows [FRUSTRATED TARGET AUDIENCE WITH SPECIFIC PROBLEM], right side shows [CONFIDENT TARGET AUDIENCE WITH YOUR SOLUTION]
+**Option 1: Problem/Solution Split** - Left side shows [FRUSTRATED TARGET AUDIENCE WITH SPECIFIC PROBLEM], right side shows [CONFIDENT TARGET AUDIENCE WITH YOUR SOLUTION]
 
-2. **Before/After Transformation** - [CHAOTIC/DIFFICULT CURRENT STATE] vs. [ORGANIZED/SUCCESSFUL FUTURE STATE WITH YOUR SOLUTION]
+**Option 2: Before/After Transformation** - [CHAOTIC/DIFFICULT CURRENT STATE] vs. [ORGANIZED/SUCCESSFUL FUTURE STATE WITH YOUR SOLUTION]
 
-3. **Process Overview** - Clean timeline visual showing [YOUR KEY STEPS/PROCESS] with [YOUR BRAND THEME] elements
+**Option 3: Process Overview** - Clean timeline visual showing [YOUR KEY STEPS/PROCESS] with [YOUR BRAND THEME] elements
 
-4. **Social Proof Style** - Professional layout with space for customer testimonial and [YOUR BRAND] branding
+**Option 4: Social Proof Style** - Professional layout with space for customer testimonial and branding
 
-5. **Product/Service Showcase** - Highlight [KEY COMPONENTS/FEATURES] with [YOUR BRAND] logo and [PRICING/CTA]
+**Option 5: Product/Service Showcase** - Highlight [KEY COMPONENTS/FEATURES] with logo placement area
 
-[ADD MORE CONCEPTS AS NEEDED]
+*Choose one concept above and include it in your prompt*
 
 **VISUAL STYLE:**
-- Professional but approachable
-- Clean, modern design
+- Professional but approachable illustration style
+- Clean, modern design with clear visual hierarchy
 - [YOUR BRAND THEME] imagery (subtle, not overpowering)
-- Incorporate [YOUR BRAND PERSONALITY] visual elements
 - Instagram-optimized (1080x1080 square format)
-- Text should be readable on mobile
-- Consistent branding across all images
+- Leave space for logo placement and text overlay
+- Use illustration/vector style rather than photorealistic
+- Consistent branding elements
+- Clear visual contrast between problem/solution or before/after
 
 **AVOID:**
-- Generic business stock photo feel
-- Overly corporate or intimidating design
-- Cluttered layouts
+- Multiple complex concepts in one image
+- Photorealistic portraits or specific people
+- Cluttered layouts with too much text
 - Colors outside the specified palette
+- Overly corporate or intimidating design
+- Too many detailed elements that won't scale to mobile
 
-Generate these [NUMBER] distinct marketing images that would appeal to [TARGET AUDIENCE DESCRIPTION] seeking [WHAT THEY'RE LOOKING FOR].
+**TEXT PLACEMENT:**
+- Leave clear areas for logo placement
+- Minimal text in the generated image (you'll add branded text later)
+- Focus on visual storytelling rather than text-heavy design
+
+Generate this single marketing image concept that I can then brand and customize in Canva.
 
 ---
 
@@ -72,16 +82,21 @@ Generate these [NUMBER] distinct marketing images that would appeal to [TARGET A
 - Have 3-5 key benefits clearly articulated
 
 ### **After Image Generation:**
-- Add your actual logo to the generated images
-- Adjust text to match your exact terminology
-- Fine-tune colors to match your brand precisely
+- Download the image and import into Canva
+- Add your actual logo and branding elements
+- Overlay your specific text and messaging
+- Adjust colors to match your exact brand palette
+- Add any additional design elements (badges, CTAs, etc.)
 - Test readability on mobile devices
 
+### **To Create Multiple Images:**
+Run this prompt multiple times, choosing a different concept option each time. This approach works much better than requesting multiple images at once.
+
 ### **Follow-Up Prompts If Needed:**
-- "Make the [BRAND THEME] elements more prominent/subtle"
-- "Adjust the color saturation to be more muted/vibrant"
-- "Make the text larger and easier to read"
-- "Create a more [ADJECTIVE] version of image #[NUMBER]"
+- "Make this image simpler with fewer elements"
+- "Adjust the [left/right] side to show more [specific detail]"
+- "Make the contrast between the two sides more obvious"
+- "Create more space at the [top/bottom] for text placement"
 
 ### **Alternative Platforms:**
 This template works best with ChatGPT's DALL-E integration. For other AI image generators, remove platform-specific language and focus on the visual description elements.
