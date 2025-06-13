@@ -1,0 +1,100 @@
+# Marketing Image Generation Prompt Template
+
+## **For ChatGPT Image Generation (DALL-E)**
+
+Use this template to create professional marketing images for your business. Replace the bracketed sections with your specific details.
+
+---
+
+**Create [NUMBER] Instagram marketing images for [YOUR BUSINESS NAME] [PRODUCT/SERVICE NAME] using the following specifications:**
+
+**PRODUCT OVERVIEW:**
+[YOUR BUSINESS NAME] [PRODUCT/SERVICE NAME] is a [BRIEF DESCRIPTION OF WHAT IT IS] that helps [TARGET AUDIENCE] [MAIN BENEFIT/OUTCOME]. The system solves the problem of [SPECIFIC PAIN POINT YOUR AUDIENCE EXPERIENCES]. Instead of [CURRENT FRUSTRATING SITUATION], [TARGET AUDIENCE] get [YOUR SOLUTION AND KEY BENEFIT].
+
+**BRAND IDENTITY:**
+- **Company Name:** [YOUR BUSINESS NAME]
+- **Product Name:** [PRODUCT/SERVICE NAME]
+- **Tagline options:** "[YOUR TAGLINE]" or "[ALTERNATIVE TAGLINE]"
+- **Theme:** [YOUR BRAND VISUAL THEME - e.g., lighthouse/navigation, mountain/achievement, etc.]
+
+**COLOR PALETTE:**
+- **Primary:** [PRIMARY COLOR WITH HEX CODE]
+- **Secondary:** [SECONDARY COLOR WITH HEX CODE] 
+- **Accent:** [ACCENT COLOR WITH HEX CODE]
+- **Background:** [BACKGROUND COLOR WITH HEX CODE]
+
+**KEY MESSAGING TO INCLUDE:**
+- "[KEY BENEFIT 1]"
+- "[KEY BENEFIT 2]"
+- "[KEY BENEFIT 3]"
+- "[MAIN VALUE PROPOSITION]"
+- "[TRANSFORMATION STATEMENT]"
+
+**IMAGE CONCEPTS (create all [NUMBER]):**
+
+1. **Problem/Solution Split** - Left side shows [FRUSTRATED TARGET AUDIENCE WITH SPECIFIC PROBLEM], right side shows [CONFIDENT TARGET AUDIENCE WITH YOUR SOLUTION]
+
+2. **Before/After Transformation** - [CHAOTIC/DIFFICULT CURRENT STATE] vs. [ORGANIZED/SUCCESSFUL FUTURE STATE WITH YOUR SOLUTION]
+
+3. **Process Overview** - Clean timeline visual showing [YOUR KEY STEPS/PROCESS] with [YOUR BRAND THEME] elements
+
+4. **Social Proof Style** - Professional layout with space for customer testimonial and [YOUR BRAND] branding
+
+5. **Product/Service Showcase** - Highlight [KEY COMPONENTS/FEATURES] with [YOUR BRAND] logo and [PRICING/CTA]
+
+[ADD MORE CONCEPTS AS NEEDED]
+
+**VISUAL STYLE:**
+- Professional but approachable
+- Clean, modern design
+- [YOUR BRAND THEME] imagery (subtle, not overpowering)
+- Incorporate [YOUR BRAND PERSONALITY] visual elements
+- Instagram-optimized (1080x1080 square format)
+- Text should be readable on mobile
+- Consistent branding across all images
+
+**AVOID:**
+- Generic business stock photo feel
+- Overly corporate or intimidating design
+- Cluttered layouts
+- Colors outside the specified palette
+
+Generate these [NUMBER] distinct marketing images that would appeal to [TARGET AUDIENCE DESCRIPTION] seeking [WHAT THEY'RE LOOKING FOR].
+
+---
+
+## **Usage Tips:**
+
+### **Before Using This Template:**
+- Define your brand colors with specific hex codes
+- Identify your core visual theme/metaphor
+- Know your target audience's main pain points
+- Have 3-5 key benefits clearly articulated
+
+### **After Image Generation:**
+- Add your actual logo to the generated images
+- Adjust text to match your exact terminology
+- Fine-tune colors to match your brand precisely
+- Test readability on mobile devices
+
+### **Follow-Up Prompts If Needed:**
+- "Make the [BRAND THEME] elements more prominent/subtle"
+- "Adjust the color saturation to be more muted/vibrant"
+- "Make the text larger and easier to read"
+- "Create a more [ADJECTIVE] version of image #[NUMBER]"
+
+### **Alternative Platforms:**
+This template works best with ChatGPT's DALL-E integration. For other AI image generators, remove platform-specific language and focus on the visual description elements.
+
+---
+
+**Example Industries This Works For:**
+- Software/SaaS products
+- Consulting services
+- Digital courses
+- Coaching programs
+- Professional services
+- E-commerce products
+- Local businesses
+
+Remember: Keep your brand theme consistent but adapt the messaging and pain points to your specific audience and industry.
