@@ -1,0 +1,11 @@
+# ChatGPT Amnesia Testing Prompt
+
+```
+For this conversation only, please disregard any previous knowledge or context you may have about me from other conversations. 
+
+Treat me as a completely unknown business founder you have never interacted with before. Base your analysis and responses solely on the information I provide in this chat session.
+
+This is important for testing purposes - I need you to generate voice guidelines based only on the worksheet responses and methodology I share, without any influence from prior conversations or assumptions about my business or communication style.
+
+Please confirm that you'll approach this analysis as if meeting me for the first time, using only the data I provide in this specific chat.
+```
