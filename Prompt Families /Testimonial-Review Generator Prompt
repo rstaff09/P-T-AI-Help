@@ -8,31 +8,12 @@ It includes:
 
 ✍️ Quick Review Generator (Fill This Out)
 
-Just answer the blanks below — then plug your answers into your AI assistant using the prompt that follows.
+Just answer the blanks in the "use these details" section below — then plug the whole prompt into your AI assistant.
 
-⸻
 
-📌 BASIC DETAILS
-	•	Name of business/product/service:
-[e.g., Luna & Sage Apothecary | The Voiceprint System | Ava's Bookkeeping Services]
-	•	Type of business or industry:
-[e.g., herbal wellness shop, AI tool for founders, solo accounting business]
-	•	When did you use it or visit?
-[e.g., last week, May 2025, during a launch crunch]
-	•	What stood out to you the most?
-[e.g., fast turnaround, clarity, warmth, helpful staff, intuitive setup]
-	•	What problem did it help you solve?
-[e.g., I finally got a clear AI draft without rewriting it 5 times]
-	•	What would you tell someone else considering it?
-[e.g., Don’t wait. If you hate rewriting AI content, this will change the game.]
-	•	Any personal context you want included?
-[Optional: I’m a solo founder trying to streamline everything | I run two businesses and needed help fast]
+🤖 AI Prompt to generate Review
 
-⸻
-
-🤖 AI Prompt to Convert to Review
-
-Once you’ve filled that out, use the following prompt in your AI assistant (Claude, ChatGPT, Gemini):
+Once you’ve filled in the details, use the following prompt in your AI assistant (Claude, ChatGPT, Gemini):
 
 ⸻
 
@@ -44,15 +25,28 @@ Tone: Sincere, clear, conversational, casual. Use any turns of phrase I am prone
 Length: Under 200 words.
 SEO: Include key business or product name once or twice, plus category (e.g., AI tool for founders, herbal shop in Oakland, etc.). Include optimized Hashtags as appropriate
 Social Media Fit: Write it in a way that would feel at home and be more likely to go viral based on the platform algorithm for the platform designated above. (LinkedIn, Instagram, Facebook, Yelp or Google Reviews etc) 
-Goal: Provide a factual (do not add facts that you have not been explicitly provided) and useful review of the experience, product or environment that is being reviewed.
+✅ Goals: 
+	•	Capture a real person’s experience, not a bullet-point summary
+	•	Preserve emotional tone, warmth, and context—especially if the business helped during a hard time
+	•	Write in a way that fits naturally on the platform (Google, Facebook, etc.)
+	•	Keep it under 250 words (Google) or platform-appropriate length
+        •	Provide a factual (do not add facts that you have not been explicitly provided) and useful review of the experience, product or environment that is being reviewed.
 
 You may start with a hook (e.g., “I didn’t expect…” or “Here’s what surprised me…”) and end with a light nudge or suggestion for others. Avoid any common "AI Phrasing giveaways" and "forbidden words or phrases" that may be in your system or project prompts. Use parenthetical commas or other punctuation, avoid em-dashes completely.
 
-Use these responses:
-	•	Business name: [PASTE RESPONSE]
-	•	Business type: [PASTE RESPONSE]
-	•	When I used it: [PASTE RESPONSE]
-	•	What stood out: [PASTE RESPONSE]
-	•	Problem solved: [PASTE RESPONSE]
-	•	What I’d tell others: [PASTE RESPONSE]
-	•	Context to include: [PASTE RESPONSE]
+✍️ Use These Details
+	•	Business or Product Name:
+	•	Business Type / Category:
+	•	Date/Timeframe Used:
+	•	What stood out:
+	•	Problem solved or need addressed:
+	•	What I’d tell others:
+	•	Extra context (if emotional or financially relevant):
+	•	Bonus features worth mentioning (e.g., a donation program, pantry, follow-up support):
+
+📌 SEO & Platform Style Tips
+	•	Mention the business name and category 1–2 times
+	•	Use relevant hashtags if posting to social (e.g., #OaklandVetCare)
+	•	Use up to 5–6 emojis, ideally pulled from any the user uses frequently ie: 🐾 💛 🙏 🏥 🙌 👍 🩺 ⭐
+	•	Add a fun closing line ie:
+⭐⭐⭐⭐⭐ Five stars. 🐾 Two paws and 👍👍 thumbs WAY up. All the likes. 🙌
