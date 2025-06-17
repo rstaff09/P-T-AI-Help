@@ -1,0 +1,58 @@
+This is a dual-part review-writing prompt system modeled after your testimonial prompt, designed for beta testers, founders, clients or customers to quickly generate SEO-optimized + socially shareable reviews using any LLM (Claude, ChatGPT, Gemini).
+
+It includes:
+	1.	Simple Fill-in Section – minimal input required
+	2.	AI Prompt Instruction – tells the AI how to shape the final output using those answers + any system memory/context
+
+⸻
+
+✍️ Quick Review Generator (Fill This Out)
+
+Just answer the blanks below — then plug your answers into your AI assistant using the prompt that follows.
+
+⸻
+
+📌 BASIC DETAILS
+	•	Name of business/product/service:
+[e.g., Luna & Sage Apothecary | The Voiceprint System | Ava's Bookkeeping Services]
+	•	Type of business or industry:
+[e.g., herbal wellness shop, AI tool for founders, solo accounting business]
+	•	When did you use it or visit?
+[e.g., last week, May 2025, during a launch crunch]
+	•	What stood out to you the most?
+[e.g., fast turnaround, clarity, warmth, helpful staff, intuitive setup]
+	•	What problem did it help you solve?
+[e.g., I finally got a clear AI draft without rewriting it 5 times]
+	•	What would you tell someone else considering it?
+[e.g., Don’t wait. If you hate rewriting AI content, this will change the game.]
+	•	Any personal context you want included?
+[Optional: I’m a solo founder trying to streamline everything | I run two businesses and needed help fast]
+
+⸻
+
+🤖 AI Prompt to Convert to Review
+
+Once you’ve filled that out, use the following prompt in your AI assistant (Claude, ChatGPT, Gemini):
+
+⸻
+
+You’re helping me write a short, authentic review for the following business or product. This review will be posted on [platform - ie: Google, Yelp, Facebook etc]
+
+Use the responses below as the foundation. Reference any system, or project memory regarding my tone; format; word choice, or business context to make it more authentic, personal and accurate.
+
+Tone: Sincere, clear, conversational, casual. Use any turns of phrase I am prone to using to simulate my tone and voice authentically.
+Length: Under 200 words.
+SEO: Include key business or product name once or twice, plus category (e.g., AI tool for founders, herbal shop in Oakland, etc.). Include optimized Hashtags as appropriate
+Social Media Fit: Write it in a way that would feel at home and be more likely to go viral based on the platform algorithm for the platform designated above. (LinkedIn, Instagram, Facebook, Yelp or Google Reviews etc) 
+Goal: Provide a factual (do not add facts that you have not been explicitly provided) and useful review of the experience, product or environment that is being reviewed.
+
+You may start with a hook (e.g., “I didn’t expect…” or “Here’s what surprised me…”) and end with a light nudge or suggestion for others. Avoid any common "AI Phrasing giveaways" and "forbidden words or phrases" that may be in your system or project prompts. Use parenthetical commas or other punctuation, avoid em-dashes completely.
+
+Use these responses:
+	•	Business name: [PASTE RESPONSE]
+	•	Business type: [PASTE RESPONSE]
+	•	When I used it: [PASTE RESPONSE]
+	•	What stood out: [PASTE RESPONSE]
+	•	Problem solved: [PASTE RESPONSE]
+	•	What I’d tell others: [PASTE RESPONSE]
+	•	Context to include: [PASTE RESPONSE]
