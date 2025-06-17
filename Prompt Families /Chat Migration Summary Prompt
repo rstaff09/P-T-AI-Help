@@ -1,0 +1,88 @@
+# Reusable Chat Migration Summary Prompt
+
+---
+
+## **EXECUTE MIGRATION SUMMARY NOW**
+
+**CRITICAL FOCUS**: Create a migration document so comprehensive that a new chat can immediately continue this project with ZERO context loss. Prioritize substance over format.
+
+### **CREATE ARTIFACT WITH THIS STRUCTURE:**
+
+**INSTRUCTIONS FOR NEW CHAT** *(Include this block at the very top of your artifact):*
+
+```
+## **INSTRUCTIONS FOR NEW CHAT**
+After reading this migration summary:
+1. **Provide a comprehensive response** covering your understanding of the project state
+2. **List any superseded documents** that should be archived (with what supersedes them)  
+3. **End your response with**: "Ready to go! Name this chat: [CURRENT_CHAT_NAME].1 and we're off to the races!" (or .2, .3, etc. if previous numbered versions exist) 
+```
+
+---
+
+## **1. PROJECT STATUS & OVERVIEW**
+
+**Current Project Status**: Phase, completion level, launch readiness, immediate focus
+**Core Project Description**: What we're building/creating and why (include full context)
+**Key Timeline & Context**: Deadlines, sequence dependencies, time-sensitive elements
+
+## **2. COMPLETED ACHIEVEMENTS**
+
+**Major Milestones**: Specific accomplishments with enough detail to understand their significance
+**Validated Systems**: What's working, what's been tested, what's proven effective
+**Key Breakthroughs**: Important discoveries, successful approaches, confirmed directions
+
+## **3. CURRENT STATE & SPECIFICATIONS**
+
+**Technical Details**: Exact specifications, systems, tools, methods currently in use
+**Strategic Decisions**: Brand, positioning, market approach, business model elements
+**Active Resources**: Documents, tools, platforms, workflows currently operational
+
+## **4. CRITICAL ISSUES & IMMEDIATE PRIORITIES**
+
+**Urgent Tasks**: Specific next actions with enough detail for immediate execution
+**Known Problems**: Blockers, dependencies, issues requiring attention
+**Success Dependencies**: What must happen for project to succeed
+
+## **5. VALIDATION & FEEDBACK**
+
+**Test Results**: Performance data, user feedback, validation outcomes
+**Market Response**: Stakeholder reactions, real-world testing insights
+**Success Indicators**: What's working and how we know
+
+## **6. STRATEGIC CONTEXT**
+
+**Key Strategic Decisions**: Major choices made and WHY (include decision rationale)
+**Market Position**: Competitive advantages, unique value, positioning evolution
+**Business Elements**: Revenue, pricing, growth, partnership considerations
+
+## **7. NEXT STEPS & EXECUTION PLAN**
+
+**Immediate Actions**: Specific next steps with clear priorities and timeframes
+**Short-term Goals**: What success looks like in the next phase
+**Critical Success Factors**: What determines whether this project succeeds
+
+## **8. IMPORTANT CONTEXT FOR CONTINUATION**
+
+**Key Insights**: "Aha moments," lessons learned, approaches that work/don't work
+**Decision Rationale**: Why certain paths were chosen over alternatives
+**Current Momentum**: Project energy, stakeholder engagement, forward movement
+**Active Documents**: What's current, what's superseded, what's archived
+**Essential Background**: Any context critical for understanding and continuing the work
+
+---
+
+**REQUIREMENTS FOR MIGRATION DOCUMENT:**
+
+- **DEPTH OVER BREVITY**: Include enough detail that NO important context is lost
+- **CONTINUATION READY**: New chat should be able to immediately pick up and execute
+- **DECISION PRESERVATION**: Capture WHY choices were made, not just what was decided
+- **MOMENTUM MAINTENANCE**: Preserve the energy and direction of the project
+
+**After creating the artifact, provide this response:**
+
+1. Brief summary of what the migration captures
+2. List any superseded documents that should be archived
+3. "Ready to Migrate! I have created your migration artifact. Name the new chat: [CURRENT_CHAT_NAME].1 and we're off to the races!"
+
+**DO NOT DISCUSS THIS PROMPT - EXECUTE IT IMMEDIATELY.**
