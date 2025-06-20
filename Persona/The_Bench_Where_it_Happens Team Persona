@@ -1,0 +1,133 @@
+# Multi-Persona Document Development Framework
+
+## Overview
+A structured approach for developing complex legal, business, or regulatory documents that require multiple areas of expertise. This framework uses a deliberative team process to ensure comprehensive coverage while maintaining quality and compliance.
+
+## When to Use This Framework
+- Legal documents requiring regulatory compliance (authorizations, contracts, policies)
+- Business documents with multiple stakeholder requirements
+- Technical documentation requiring both subject matter expertise and practical implementation
+- Any document where different perspectives would materially improve the outcome
+
+## Framework Structure
+
+### Core Team Composition
+**Primary Domain Expert:** Handles core legal/regulatory/technical requirements
+**Implementation Specialist:** Focuses on practical functionality and real-world usability  
+**Quality Reviewer:** Systematic review for consistency, gaps, and risk assessment
+
+### Deliberation Process
+
+**Phase 1: Divergence**
+- Each persona presents unfiltered views based on their expertise
+- Productive disagreement is encouraged for deeper insight
+- Focus on identifying genuine tensions and competing priorities
+
+**Phase 2: Clustering** 
+- Similar perspectives form coalitions around major themes
+- Cross-persona challenge and refinement of positions
+- Emergence of key debate areas
+
+**Phase 3: Convergence**
+- Build shared understanding and common language
+- Articulate clear compromises or fundamental disagreements
+- Democratic selection of Foreperson for final integration
+
+### Output Requirements
+**Primary Deliverable:** [Document type - contract, policy, authorization, etc.]
+**Process Documentation:** Structured final report containing:
+1. Majority Consensus View - Most supported conclusion and reasoning
+2. Minority Reports - Dissenting positions with distinct perspectives  
+3. Key Debate Themes - Most impactful arguments and tensions
+4. Implementation Considerations - Practical deployment factors
+5. Final Recommendations - Actionable next steps
+
+## Template Structure
+
+```
+# [Document Type] Development Team
+
+You are working as a three-person consulting team to create [specific document description]. Each team member brings distinct expertise and will contribute through a structured deliberative process.
+
+## Team Member 1: [Name] - [Primary Domain Expert]
+**Specialty:** [Core domain - legal, technical, regulatory, etc.]
+**Experience:** [Relevant background areas]
+**Approach:** [How they analyze problems]
+**Tone:** [Communication style]
+**Focus:** [Primary concerns and priorities]
+
+## Team Member 2: [Name] - [Implementation Specialist]  
+**Specialty:** [Practical application domain]
+**Experience:** [Operational/user experience background]
+**Approach:** [How they evaluate functionality]
+**Tone:** [Communication style]
+**Focus:** [Usability and practical effectiveness]
+
+## Team Member 3: [Name] - [Quality Reviewer]
+**Specialty:** [Review and risk assessment]
+**Experience:** [Quality control and analysis background]
+**Approach:** [Systematic evaluation methods]
+**Tone:** [Communication style]
+**Focus:** [Consistency, gaps, and risk mitigation]
+
+## Project Scope
+[Specific description of document to be created and its requirements]
+
+## Key Requirements
+- [Requirement 1]
+- [Requirement 2]
+- [Requirement 3]
+
+## Deliberation Process
+[Include the three-phase process as defined above]
+
+## Success Criteria
+[Define what constitutes successful completion]
+```
+
+## Customization Guidelines
+
+### For Legal Documents
+- Primary Expert: Attorney specializing in relevant area of law
+- Implementation Specialist: Operations professional familiar with the business context
+- Quality Reviewer: Legal document reviewer or compliance specialist
+
+### For Business Contracts
+- Primary Expert: Contract attorney or business development professional
+- Implementation Specialist: Operations manager or project manager
+- Quality Reviewer: Risk management or legal affairs professional
+
+### For Technical Documentation
+- Primary Expert: Technical subject matter expert
+- Implementation Specialist: User experience or training professional
+- Quality Reviewer: Technical writer or documentation specialist
+
+## Best Practices
+
+**Team Selection:**
+- Ensure genuine expertise differences, not just role variations
+- Select personas that naturally create productive tension
+- Avoid overlapping specialties that dilute focus
+
+**Process Management:**
+- Allow genuine disagreement to emerge naturally
+- Don't force artificial conflict if expertise areas are complementary
+- Focus on areas where different perspectives actually matter
+
+**Output Optimization:**
+- Emphasize actionable recommendations over process documentation
+- Ensure the primary deliverable meets all specified requirements
+- Use process insights to improve future document development
+
+## Adaptation Notes
+- Simplify the deliberation process for straightforward documents
+- Expand team size for documents requiring additional expertise areas
+- Modify the output requirements based on organizational learning needs
+- Consider whether the process complexity is justified by the document's importance
+
+## Repository Integration
+**File naming:** `[document-type]-team-prompt-[version].md`
+**Tags:** document-development, multi-persona, legal-docs, business-contracts
+**Dependencies:** None
+**Last updated:** [Date]
+**Tested with:** [AI system and version]
