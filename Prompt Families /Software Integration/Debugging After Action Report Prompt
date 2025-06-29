@@ -1,0 +1,191 @@
+# After-Action Report Generation Prompt Template
+
+## Core Prompt Structure
+
+```
+You are tasked with creating a comprehensive After-Action Report (AAR) for a technical debugging session. Generate a professional, detailed report that captures all aspects of the problem-solving process for future reference and team learning.
+
+## Report Requirements
+
+**Format**: Professional technical documentation in markdown
+**Audience**: Technical team members, future troubleshooters, and system maintainers
+**Purpose**: Knowledge preservation, process improvement, and future problem prevention
+
+## Essential Information to Include
+
+### 1. EXECUTIVE SUMMARY
+- Brief problem description and business impact
+- Root cause in one sentence
+- Solution summary
+- Current system status
+- Key metrics (time to resolution, system functionality improvement)
+
+### 2. PROBLEM DOCUMENTATION
+- Exact symptoms and error manifestations
+- System environment and technical context
+- Affected components and scope of impact
+- Business consequences and urgency level
+
+### 3. INVESTIGATION HISTORY
+- **Failed approaches with specific reasons why they didn't work**
+- Timeline of troubleshooting attempts
+- Key discoveries and insights during investigation
+- Decision points and methodology changes
+- Tools and techniques used
+
+### 4. ROOT CAUSE ANALYSIS
+- Technical explanation of underlying issue
+- Why the problem occurred (configuration, code, process)
+- Contributing factors and conditions
+- How the issue manifested in symptoms
+
+### 5. SOLUTION IMPLEMENTATION
+- Step-by-step resolution process
+- Final working configuration/code/settings
+- Validation testing performed
+- Performance impact assessment
+
+### 6. LESSONS LEARNED
+- Technical insights gained
+- Process improvements identified
+- Best practices established
+- Knowledge gaps discovered
+
+### 7. PREVENTION STRATEGIES
+- Configuration checklists
+- Monitoring recommendations
+- Testing protocols
+- Documentation updates needed
+
+### 8. FUTURE TROUBLESHOOTING GUIDE
+- Step-by-step debugging methodology for similar issues
+- Common pitfalls to avoid
+- Quick diagnostic checks
+- Escalation criteria
+
+## Specific Content Guidelines
+
+### Technical Accuracy
+- Include exact error messages, code snippets, and configuration details
+- Provide specific module numbers, field names, and system references
+- Document precise formulas, functions, and technical syntax
+- Include screenshots references and data structure examples
+
+### Process Documentation
+- Capture decision-making rationale
+- Explain why certain approaches were tried or abandoned
+- Document the logical flow of investigation
+- Include time estimates and effort investment
+
+### Knowledge Transfer
+- Write for someone who wasn't involved in the debugging
+- Explain technical concepts clearly without assuming deep system knowledge
+- Provide context for business decisions and technical choices
+- Include references to relevant documentation and resources
+
+### Actionable Intelligence
+- Create specific checklists and procedures
+- Provide copy-paste ready configurations and code
+- Include clear success criteria and validation steps
+- Offer concrete prevention measures
+
+## Input Requirements
+
+Please provide the following information about your debugging session:
+
+1. **System Context**: What platform/integration/workflow was affected?
+2. **Problem Description**: What exactly was broken and how did it manifest?
+3. **Investigation Timeline**: What approaches were tried and why did they fail?
+4. **Root Cause**: What was the underlying technical issue?
+5. **Solution Details**: How was it fixed and what is the final working state?
+6. **Testing Results**: How was the fix validated?
+7. **Impact Assessment**: What was the business impact and current system status?
+
+## Output Structure Template
+
+# [System Name] [Issue Type] - After Action Report
+
+**Date**: [Date]
+**System**: [System/Platform Description]
+**Issue Status**: [RESOLVED/ONGOING/ESCALATED]
+**Participants**: [Team Members Involved]
+
+---
+
+## Executive Summary
+[2-3 paragraph summary covering problem, solution, and impact]
+
+## Problem Statement
+### Initial Issue Description
+[Detailed symptom description]
+
+### Technical Environment
+[System context and configuration]
+
+## Investigation History
+### Phase 1: [Description]
+[Chronological documentation of approaches]
+
+### Phase 2: [Description]
+[Include failed attempts with specific reasons]
+
+## Root Cause Identification
+[Technical explanation of underlying issue]
+
+## Solution Implementation
+[Step-by-step resolution process]
+
+## Validation Results
+[Testing performed and results]
+
+## Key Learnings & Best Practices
+[Technical insights and process improvements]
+
+## Future Troubleshooting Guide
+[Actionable debugging methodology]
+
+## System Status
+[Current operational state and metrics]
+
+## Appendix
+[Reference materials, configurations, and resources]
+
+---
+
+## Quality Criteria
+
+The AAR should be:
+- **Comprehensive**: Covers all aspects of the debugging process
+- **Actionable**: Provides specific steps and procedures for future use
+- **Educational**: Explains the 'why' behind technical decisions
+- **Searchable**: Uses clear headings and technical keywords
+- **Maintainable**: Easy to update as systems evolve
+- **Professional**: Suitable for client communication and team documentation
+
+Generate the report with appropriate detail level, technical accuracy, and clear organization for maximum utility as a reference document.
+```
+
+## Usage Instructions
+
+**To use this prompt effectively:**
+
+1. **Gather Information**: Collect all the input requirements listed above
+2. **Customize Context**: Adapt the system-specific sections for your technology stack
+3. **Provide Details**: Include specific error messages, configurations, and code snippets
+4. **Review Output**: Ensure the generated report covers all essential elements
+5. **Archive Properly**: Store in accessible location with clear naming convention
+
+## Prompt Variations
+
+### For Different Scenarios:
+
+**Integration Issues**: Emphasize data flow, API configurations, and cross-platform communication
+**Performance Problems**: Focus on metrics, load testing, and optimization strategies  
+**Security Incidents**: Include compliance considerations, access controls, and audit trails
+**User Experience Bugs**: Highlight user journey mapping, accessibility, and testing protocols
+
+### For Different Audiences:
+
+**Executive Summary Version**: Emphasize business impact, timeline, and resolution confidence
+**Technical Deep-Dive**: Focus on code, configurations, and technical architecture
+**Process Improvement**: Highlight methodology, decision-making, and workflow optimization
