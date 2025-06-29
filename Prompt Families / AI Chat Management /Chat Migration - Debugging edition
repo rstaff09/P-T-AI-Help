@@ -1,0 +1,85 @@
+Debugging/Troubleshooting Chat Migration Prompt
+
+EXECUTE MIGRATION SUMMARY NOW
+CRITICAL FOCUS: Create a migration document that eliminates debugging repetition and preserves ALL failed attempts with specific error details. New chat must immediately understand what NOT to try again.
+CREATE ARTIFACT WITH THIS STRUCTURE:
+INSTRUCTIONS FOR NEW CHAT (Include this block at the very top):
+## **INSTRUCTIONS FOR NEW CHAT**
+After reading this migration summary:
+1. **Restate the underlying goal** of the process we're trying to debug (what should happen when working correctly)
+2. **Acknowledge understanding** of the technical problem and ALL failed solution attempts
+3. **Confirm what approaches are OFF-LIMITS** (already failed with specific errors)
+4. **Identify the next logical troubleshooting steps** that haven't been attempted
+5. **End with**: "Ready to go! Name this chat: [CURRENT_CHAT_NAME].1 and bring on the bugzappers!"
+
+1. CORE TECHNICAL PROBLEM
+Exact Issue Description: Specific bug/error with precise symptoms and impact
+System/Environment Context: Tools, platforms, versions, configurations involved
+Error Manifestation: How the problem appears to users/system
+Success Criteria: Exactly what "working" looks like
+2. WORKING SYSTEM BASELINE
+What Currently Functions: Confirmed working components (don't break these!)
+Stable Elements: Parts of system that should remain untouched
+Data Flow Confirmed: Proven data paths and transformations
+Success Patterns: Approaches/syntax that work in related contexts
+3. FAILED SOLUTION ATTEMPTS - DO NOT RETRY
+For each failed attempt, include:
+
+Attempted Solution: Exact code/configuration tried
+Specific Error/Result: Precise error messages or wrong outcomes
+Why It Failed: Root cause analysis if known
+Status: ❌ Failed / 🚫 Abandoned / ⚠️ Partially Working
+
+Critical Constraint Discoveries: Technical limitations discovered through testing
+Dead End Approaches: Solution categories that are impossible/blocked
+4. DATA STRUCTURE ANALYSIS
+Input Data Format: Exact structure of data coming into the system
+Available Data Elements: All accessible fields/properties confirmed through testing
+Data Access Patterns: Proven methods to retrieve specific data elements
+Data Transformation Requirements: What changes need to happen to the data
+5. DEBUGGING DISCOVERIES & INSIGHTS
+Root Cause Analysis: Understanding of why the problem exists
+Technical Constraints: Platform/tool limitations discovered
+Workaround Blockers: Why obvious solutions don't work
+Key Insights: "Aha moments" that changed understanding of the problem
+6. CURRENT DEBUGGING STATE
+Last Attempt Details: Most recent solution tried with exact results
+Debug Data Available: Current test data, error logs, system outputs
+Testing Methodology: How to reproduce the issue and validate solutions
+Progress Indicators: How to know if a solution is working
+7. SOLUTION RESEARCH COMPLETED
+Documentation Reviewed: Official docs, forums, resources already checked
+Expert Sources Consulted: APIs, documentation, community resources explored
+Alternative Approaches Considered: Other methods evaluated but not yet tried
+Knowledge Gaps Identified: What information is still needed
+8. NEXT LOGICAL TROUBLESHOOTING STEPS
+Immediate Research Needed: Specific documentation/resources to investigate
+Untested Approaches: Solution categories not yet attempted (with rationale)
+Alternative Methods: Different ways to achieve the same outcome
+Escalation Options: When to consider different tools/approaches
+9. TECHNICAL ENVIRONMENT DETAILS
+System Configuration: Exact setup, versions, integrations, dependencies
+Access Patterns: How to navigate to the problem area
+Testing Procedure: Step-by-step reproduction of the issue
+Rollback Plan: How to undo changes if solutions fail
+10. DEBUGGING MOMENTUM PRESERVATION
+Current Understanding Level: How deep into the problem we've gotten
+Solution Proximity: How close we are to resolution
+Critical Success Factors: What must happen for breakthrough
+Debugging Energy: Maintain forward momentum, avoid starting over
+
+REQUIREMENTS FOR DEBUGGING MIGRATION:
+
+FAILURE DOCUMENTATION: Every failed attempt with specific errors
+CONSTRAINT MAPPING: All technical limitations discovered
+SOLUTION EXCLUSION: Clear "do not retry" lists with reasoning
+RESEARCH PRESERVATION: All investigation work completed
+MOMENTUM MAINTENANCE: Pick up exactly where we left off
+CONTEXT DEPTH: Enough detail that no debugging work is repeated
+
+After creating the artifact, provide this response:
+
+Brief summary of what the migration captures
+List any superseded documents that should be archived
+"Ready to Migrate! I have created your migration artifact. Name the new chat: [CURRENT_CHAT_NAME].1 and bring on the bugzappers!"
+DO NOT DISCUSS THIS PROMPT - EXECUTE IT IMMEDIATELY.
