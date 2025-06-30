@@ -1,0 +1,44 @@
+ChatGPT Prompt Framework:
+"Please create a custom [EMOJI_CONCEPT] emoji-style icon with these specifications:
+Visual Style:
+
+Same emoji aesthetic as standard Unicode emojis (rounded, friendly, dimensional)
+[SPECIFIC_CONCEPT] with [RELEVANT_ELEMENTS]
+[MOOD/FEELING] but professional and [BRAND_APPROPRIATE]
+Subtle shading and dimension typical of emoji design language
+
+Color Palette (P&T Brand Colors):
+
+Primary Deep Blue (#0066CC) for [PRIMARY_ELEMENTS]
+Navy (#0A1C40) for [DEPTH/STRUCTURE_ELEMENTS]
+Gold (#E6C84C) for [HIGHLIGHT/ACCENT_ELEMENTS]
+Light Blue (#7FB3D5) for [SECONDARY/WATER_ELEMENTS]
+Sand (#DBCB92) for [AGED/WARM_ELEMENTS] (if applicable)
+Blue-White (#f9feff) for highlights and [LIGHT_EFFECTS]
+
+[CATEGORY] Elements:
+
+[PRIMARY_FEATURE]
+[SECONDARY_FEATURE]
+[SUPPORTING_ELEMENTS]
+[MARITIME_CONNECTION] (coastal waves, nautical details, etc.)
+[BRAND_INTEGRATION]
+
+Design Elements:
+
+Clear [CONCEPT] symbolism
+[FUNCTION/PURPOSE] aesthetic
+Maritime/coastal connection where appropriate
+Same friendly, emoji-style appearance as existing P&T emoji set
+Maintains P&T brand identity and professional quality
+
+Technical Requirements:
+
+PNG format with transparent background
+64px size optimized for Notion
+Emoji-style proportions and visual weight
+Should blend seamlessly with existing Unicode emojis
+
+Context:
+Represents [PURPOSE/USAGE] - [DETAILED_EXPLANATION_OF_FUNCTION]
+Please provide 2-3 variations with different [VARIATION_FOCUS] so we can test which works best at small sizes in Notion."
